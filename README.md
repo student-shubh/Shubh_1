@@ -6,5 +6,5 @@
 - 🌱 I’m presently learning  readme
 - 💬My hobbies are xyz
 
-- ⚡ Fun fact about me :   *Fun Fact*
+
 
